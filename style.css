@@ -1,6 +1,10 @@
 p{ 
-    color:blue;
+    color:rgb(194, 20, 238);
 }
 h3{
-    color:blue;
+    color:rgb(189, 22, 231);
+}
+
+body{
+    background-color: rgb(85, 40, 94);
 }
